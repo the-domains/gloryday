@@ -1,0 +1,14 @@
+layout_spectrum: 0.7094522
+color:
+  saturation: 1
+  brandStrength: 0.1562836
+  lightness: 0.4366273
+  brandColors:
+    - '#FFFFFF'
+    - '#060807'
+    - '#F8C05F'
+    - '#8F8F8F'
+    - '#AA5B57'
+  rhythmicContrast: 1
+typography_spectrum: 0.7738991
+name: Gloryday
